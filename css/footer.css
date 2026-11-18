@@ -21,13 +21,16 @@
   margin-top: 16px;
   max-width: 264px;
 }
+.f-title {
+  font-weight: 500;
+}
 .social-media {
   padding: 0;
   margin: 0;
   display: flex;
   align-items: center;
-  gap: 24px;
-  margin-top: 8px;
+  gap: 16px;
+  margin-top: 16px;
 }
 .footer-social-media {
   padding-left: 120px;
