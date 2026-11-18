@@ -23,6 +23,7 @@
 }
 .f-title {
   font-weight: 500;
+  color: #ffffff;
 }
 .social-media {
   padding: 0;
@@ -44,14 +45,13 @@
   border-radius: 40px;
   width: 40px;
   height: 40px;
-  color: #f4f4fd;
+  color: #ffffff;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .social-media .m-link:hover {
   background-color: #31d0aa;
-  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .social-media .m-link:focus {
   background-color: #31d0aa;
-  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }

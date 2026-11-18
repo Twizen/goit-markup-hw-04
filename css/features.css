@@ -1,4 +1,4 @@
-.features h3 {
+.s-ttl {
   display: block;
   margin-bottom: 8px;
   font-weight: 500;
@@ -7,16 +7,14 @@
   color: #2e2f42;
   letter-spacing: 0.02em;
 }
-
 .features-cards {
   display: flex;
   gap: 24px;
   padding: 0;
   margin: 0;
-}
-.features-cards li {
   flex-basis: calc((100% - 72px) / 4);
 }
+
 .features {
   padding: 120px 0;
 }
